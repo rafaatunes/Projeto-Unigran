@@ -8,8 +8,8 @@ public class ConexaoDB {
 
     // URL do banco de dados, nome de usuário e senha
     private static final String URL = "jdbc:mysql://localhost:3306/cadastro_clientes";
-    private static final String USER = "root"; // altere se necessário
-    private static final String PASSWORD = "password"; // altere se necessário
+    private static final String USER = "root"; //
+    private static final String PASSWORD = "rafaelrafael.,hot"; // 
 
     // Método para obter a conexão
     public static Connection getConnection() throws SQLException {
